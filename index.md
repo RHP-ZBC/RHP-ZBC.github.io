@@ -1,10 +1,8 @@
-# Home
-
 ## Intro
 
 Welcome to Your Birthday Page, MSc H. Ren [1]
 
-Congrats! You found this page that dedicated for you! The author might be super happy...? If you are here for the passcode, please read through the page.
+Congrats! You found this page that is dedicated to you! The author might be super happy...? If you are here for the passcode, please read through the page.
 
 ## Background
 
@@ -12,13 +10,13 @@ It's a long story.
 
 ## Methodology
 
-The passcode to continue the little script is your official birthday (8 bits: yyyy/mm/dd) plus my birthday! Please do not consider the lunar calender :-)
+The passcode to continue the little script is your official birthday (8 bits: yyyy/mm/dd) plus my birthday! Please do not consider the lunar calendar :-)
 
 If you make it right, you may continue with the script. 
 
 ## Experiments & Results
 
-Trust me, I coded the whole thing and I tried it on Windows 11. It should also work on Windows 10. If not, contact the supporting staff via wechat.
+Trust me, I coded the whole thing, and I tried it on Windows 11. It should also work on Windows 10. If not, contact the supporting staff via WeChat.
 
 ## Conclusion
 
