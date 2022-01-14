@@ -1,6 +1,34 @@
-## Welcome to GitHub Pages
+# Home
 
-You can use the [editor on GitHub](https://github.com/RHP-ZBC/RHP-ZBC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Intro
+
+Welcome to Your Birthday Page, MSc H. Ren [1]
+
+Congrats! You found this page that dedicated for you! The author might be super happy...? If you are here for the passcode, please read through the page.
+
+## Background
+
+It's a long story.
+
+## Methodology
+
+The passcode to continue the little script is your official birthday (8 bits: yyyy/mm/dd) plus my birthday! Please do not consider the lunar calender :-)
+
+If you make it right, you may continue with the script. 
+
+## Experiments & Results
+
+Trust me, I coded the whole thing and I tried it on Windows 11. It should also work on Windows 10. If not, contact the supporting staff via wechat.
+
+## Conclusion
+
+Find more from the script. It is waiting for you.
+
+## Reference
+
+[1] https://www.linkedin.com/
+
+<!-- You can use the [editor on GitHub](https://github.com/RHP-ZBC/RHP-ZBC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +62,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
