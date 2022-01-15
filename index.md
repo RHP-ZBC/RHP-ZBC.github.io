@@ -3,6 +3,8 @@
 Welcome to Your Birthday Page, MSc H. Ren [1]
 
 Congrats! You found this page that is dedicated to you! The author might be super happy...? If you are here for the passcode, please read through the page.
+<div align=center><img width = '350' height ='180' src ="https://github.com/RHP-ZBC/RHP-ZBC.github.io/blob/main/cake.jpg"/></div>
+<div align=center>Fig 1. Trace back the time to 2018 spring.</div>
 
 ## Background
 
@@ -16,7 +18,7 @@ If you make it right, you may continue with the script.
 
 ## Experiments & Results
 
-Trust me, I coded the whole thing, and I tried it on Windows 11. It should also work on Windows 10. If not, contact the supporting staff via WeChat.
+Trust me, I coded the whole thing, and I tried it on Windows 11. It should be compatible on Windows 10 as well. If not, contact the supporting staff via WeChat.
 
 ## Conclusion
 
