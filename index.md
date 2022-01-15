@@ -3,8 +3,8 @@
 Welcome to Your Birthday Page, MSc H. Ren [1]
 
 Congrats! You found this page that is dedicated to you! The author might be super happy...? If you are here for the passcode, please read through the page.
-<!-- <div align=center><img width = '350' height ='180' src ="https://github.com/RHP-ZBC/RHP-ZBC.github.io/blob/main/cake.jpg"/></div> -->
-![Image](https://github.com/RHP-ZBC/RHP-ZBC.github.io/blob/main/cake.jpg)
+<!-- <div align=center><img width = '350' height ='180' src ="cake.jpg"/></div> -->
+<!-- ![Image](https://github.com/RHP-ZBC/RHP-ZBC.github.io/blob/main/cake.jpg) -->
 <div align=center>Fig 1. Trace back the time to 2018 spring.</div>
 
 ## Background
