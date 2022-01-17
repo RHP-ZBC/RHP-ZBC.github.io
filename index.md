@@ -1,11 +1,11 @@
 ## Intro
 
-Welcome to Your Birthday Page, MSc H. Ren [1]
+Welcome to Your Birthday Page, MSc H. Ren [1].
 
-Congrats! You found this page that is dedicated to you! The author might be super happy...? If you are here for the passcode, please read through the page.
+Congrats! You found this page that is dedicated to you! If you are here for the passcode, please read through the page.
 <div align=center><img width = '350' height ='180' src ="cake.jpg"/></div>
 <!-- ![Image](https://github.com/RHP-ZBC/RHP-ZBC.github.io/blob/main/cake.jpg) -->
-<div align=center>Fig 1. Trace back the time to 2018 spring.</div>
+<div align=center>Fig 1. Trace back the time to 2018 spring. [2] </div>
 
 ## Background
 
@@ -28,6 +28,7 @@ Find more from the script. It is waiting for you.
 ## Reference
 
 [1] https://www.linkedin.com/
+[2] https://drive.google.com/file/d/1R8dosT4gGpHRaXYaZ6lxrwL34C2O2g-W/view?usp=sharing
 
 <!-- You can use the [editor on GitHub](https://github.com/RHP-ZBC/RHP-ZBC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
